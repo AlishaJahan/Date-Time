@@ -1,5 +1,5 @@
-# Date-Time
-# ⏰ Simple Java Date-Time App
+## Date-Time
+## ⏰ Simple Java Date-Time App
 
 This is a beginner-friendly Java app that prints the current date and time with a motivational message. It's packaged using Docker.
 
